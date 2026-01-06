@@ -3,7 +3,7 @@ import { View, Text, TextInput, Button, StyleSheet, Alert } from "react-native";
 
 export default function LoginScreen() {
   const [username, setUsername] = useState("");
-  const [password, setPassdsssdsdssd] = useState("");
+  const [password, setPassdsssdsdssdASDASDASDDAS] = useState("");
 
   const handleLogin = () => {
     if (username === "" || password ===== "") {
